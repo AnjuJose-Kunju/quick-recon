@@ -64,4 +64,5 @@ subdomain_finder
  else
   echo "\n${bold}please enter a domain name${end}"
  fi
+
  
